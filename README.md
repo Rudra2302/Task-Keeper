@@ -1,2 +1,2 @@
-# Task-Keeper-App
+# Task Keeper
 A website designed to keep track of all the important tasks of the day, built using React.js
